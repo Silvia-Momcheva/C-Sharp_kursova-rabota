@@ -1,0 +1,37 @@
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\bin\Debug\Kursova rabota.exe.config
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\bin\Debug\Kursova rabota.exe
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\bin\Debug\Kursova rabota.pdb
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova rabota.csproj.AssemblyReference.cache
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova_rabota.Form1.resources
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova_rabota.Properties.Resources.resources
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova rabota.csproj.GenerateResource.cache
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova rabota.csproj.CoreCompileInputs.cache
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova rabota.exe
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova rabota.pdb
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova_rabota.All.resources
+C:\Users\Silviq\Desktop\Kursova rabota\Kursova rabota\obj\Debug\Kursova_rabota.AddItems.resources
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\bin\Debug\Kursova rabota.exe.config
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\bin\Debug\Kursova rabota.exe
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\bin\Debug\Kursova rabota.pdb
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.AddItems.resources
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.All.resources
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.Form1.resources
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.Properties.Resources.resources
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.exe
+C:\Users\user\Desktop\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.pdb
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\bin\Debug\Kursova rabota.exe.config
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\bin\Debug\Kursova rabota.exe
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\bin\Debug\Kursova rabota.pdb
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.AssemblyReference.cache
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.AddItems.resources
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.All.resources
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.Form1.resources
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova_rabota.Properties.Resources.resources
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.GenerateResource.cache
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.CoreCompileInputs.cache
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.exe
+C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.pdb

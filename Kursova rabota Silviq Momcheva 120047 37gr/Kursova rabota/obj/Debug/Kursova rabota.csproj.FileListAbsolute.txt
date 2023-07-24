@@ -35,3 +35,15 @@ C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova ra
 C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.csproj.CoreCompileInputs.cache
 C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.exe
 C:\Users\Silviq\Downloads\Kursova-rabota-Silv (1)\Kursova-rabota-Silv\Kursova rabota – Silviq\Kursova rabota\obj\Debug\Kursova rabota.pdb
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\bin\Debug\Kursova rabota.exe.config
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\bin\Debug\Kursova rabota.exe
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\bin\Debug\Kursova rabota.pdb
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova rabota.csproj.AssemblyReference.cache
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova_rabota.AddItems.resources
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova_rabota.All.resources
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova_rabota.Form1.resources
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova_rabota.Properties.Resources.resources
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova rabota.csproj.GenerateResource.cache
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova rabota.csproj.CoreCompileInputs.cache
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova rabota.exe
+C:\Users\Silvia.Momcheva\Documents\GitHub\C-Sharp_kursova-rabota\Kursova rabota Silviq Momcheva 120047 37gr\Kursova rabota\obj\Debug\Kursova rabota.pdb
